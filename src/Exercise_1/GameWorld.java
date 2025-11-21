@@ -1,3 +1,4 @@
+//Avia Atedgi 209253384  , Roi Cohen 206369993
 package Exercise_1;
 
 public class GameWorld {
@@ -44,6 +45,7 @@ public class GameWorld {
 		newPlayers[players.length+1] = player;
 		this.players = newPlayers;
 	}
+	// הדפסת שחקנים
 	public void printAllPlayers() {
 		if(players == null) {
 			System.out.println("There are no players in the world");

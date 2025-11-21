@@ -1,3 +1,4 @@
+//Avia Atedgi 209253384  , Roi Cohen 206369993
 package Exercise_1;
 
 public class Character {
